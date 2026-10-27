@@ -1,48 +1,37 @@
-<div align="center">
-  <h1>Hi there, I'm Samar Gaurav! 👋</h1>
-  <p><strong>AI Enthusiast & Full-Stack Web Developer</strong></p>
-  <p>Building functional, data-driven applications with clean code architecture.</p>
+# ⚡ SAMAR GAURAV
 
-  <p>
-    <a href="mailto:ruh95hi@gmail.com"><img src="https://shields.io" alt="Email"></a>
-  </p>
-</div>
+> **AI Enthusiast & Full-Stack Developer**  
+> *Crafting optimal architectures & computational logic.*
 
 ---
 
-### 💻 Tech Stack & Tools
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Core Languages & Backend</h4>
-      <code>Python</code> • <code>Java</code> • <code>C</code> • <code>C++</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 Frontend Frameworks</h4>
-      <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code>
-    </td>
-  </tr>
-</table>
+### ⚡ WHAT I DO
+```txt
+I do what most people don't — hard, complex coding.
+```
+- **🔭 Current Focus:** Architectural builds merging AI functionality with web runtimes.
+- **🌱 Skills Optimization:** Deepening core expertise across algorithms, logic paradigms, and clean system data structures.
+- **🤝 Open Source Ecosystem:** Actively pursuing engineering collaborations on modern scalable utilities.
 
 ---
 
-### 📈 GitHub Metrics
+### 💻 System Configuration (Tech Stack)
 
-<p align="center">
-  <img src="https://vercel.app" width="49%" alt="GitHub Stats" />
-  <img src="https://herokuapp.com" width="49%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" width="49%" alt="Top Languages" />
-  <img src="https://vercel.app" width="49%" alt="Dev Quote" />
-</p>
+```yml
+Core Languages:
+  - C
+  - C++
+  - Java
+  - Python
+Web Infrastructure:
+  - HTML5
+  - CSS3
+  - JavaScript
+```
 
 ---
 
-### ⚡ What I Do
-- **🔭 Current Focus:** Developing AI & Web Development projects.
-- **🌱 Active Learning:** Deepening knowledge in programming logic, algorithms, and full-stack architecture.
-- **🤝 Open Source:** Always looking to collaborate on cool tech & open-source projects.
-- **🔥 Fun Fact:** I enjoy building things I probably didn't need to build.
+### 📈 Profile Registry
+
+*   **Target Dashboard:** [Explore Devaer2 Public Portfolio](https://github.com "GitHub Profile Link")
+*   **Contact Interface:** Secure direct routing via [Inbound Mail Terminal](mailto:ruh95hi@gmail.com "Email Gateway Link")
