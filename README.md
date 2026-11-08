@@ -1,6 +1,6 @@
 # ⚡ SAMAR GAURAV
 
-> **AI Enthusiast & Full-Stack Developer**  
+> **Coder & App Developer**  
 > *Crafting optimal architectures & computational logic.*
 
 ---
